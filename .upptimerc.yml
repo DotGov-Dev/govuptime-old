@@ -2,21 +2,24 @@
 owner: upptime # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
+# Top domains by traffic from https://analytics.usa.gov/
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: USPS - Tools
+    url: https://tools.usps.com
+  - name: NIH - NCBI
+    url: https://ncbi.nlm.nih.gov
+  - name: NIH - Pubmed
+    url: https://pubmed.ncbi.nlm.nih.gov/
+  - name: CDC - Homepage
+    url: https://www.cdc.gov/
+  - name: USPS - Registration
+    url: https://reg.usps.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  cname: dotgov-dev.github.io
+  baseUrl: /govuptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
