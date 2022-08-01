@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 376,
-    "timeDay": 454,
-    "timeWeek": 424,
-    "timeMonth": 376,
-    "timeYear": 376,
+    "time": 370,
+    "timeDay": 261,
+    "timeWeek": 427,
+    "timeMonth": 370,
+    "timeYear": 370,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 284,
-    "timeDay": 414,
-    "timeWeek": 398,
-    "timeMonth": 284,
-    "timeYear": 284,
+    "time": 301,
+    "timeDay": 629,
+    "timeWeek": 482,
+    "timeMonth": 301,
+    "timeYear": 301,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 261,
-    "timeDay": 180,
-    "timeWeek": 325,
-    "timeMonth": 261,
-    "timeYear": 261,
+    "time": 273,
+    "timeDay": 504,
+    "timeWeek": 382,
+    "timeMonth": 273,
+    "timeYear": 273,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 227,
-    "timeDay": 155,
-    "timeWeek": 225,
-    "timeMonth": 227,
-    "timeYear": 227,
+    "time": 226,
+    "timeDay": 199,
+    "timeWeek": 235,
+    "timeMonth": 226,
+    "timeYear": 226,
     "dailyMinutesDown": {}
   },
   {
@@ -77,18 +77,16 @@
     "icon": "https://favicons.githubusercontent.com/reg.usps.com",
     "slug": "usps-registration",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 272,
-    "timeDay": 283,
-    "timeWeek": 296,
-    "timeMonth": 272,
-    "timeYear": 272,
-    "dailyMinutesDown": {
-      "2022-07-31": 10
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 267,
+    "timeDay": 239,
+    "timeWeek": 303,
+    "timeMonth": 267,
+    "timeYear": 267,
+    "dailyMinutesDown": {}
   }
 ]
