@@ -76,18 +76,19 @@
     "url": "https://reg.usps.com/",
     "icon": "https://favicons.githubusercontent.com/reg.usps.com",
     "slug": "usps-registration",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 281,
-    "timeDay": 224,
-    "timeWeek": 277,
-    "timeMonth": 297,
-    "timeYear": 281,
+    "time": 280,
+    "timeDay": 215,
+    "timeWeek": 268,
+    "timeMonth": 295,
+    "timeYear": 280,
     "dailyMinutesDown": {
+      "2022-10-01": 0,
       "2022-09-10": 22
     }
   }
