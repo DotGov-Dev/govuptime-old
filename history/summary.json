@@ -22,9 +22,9 @@
     "url": "https://ncbi.nlm.nih.gov",
     "icon": "https://icons.duckduckgo.com/ip3/ncbi.nlm.nih.gov.ico",
     "slug": "nih-ncbi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 272,
     "timeMonth": 229,
     "timeYear": 300,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-13": 0
+    }
   },
   {
     "name": "NIH - Pubmed",
