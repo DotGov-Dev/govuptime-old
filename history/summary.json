@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 383,
-    "timeDay": 380,
-    "timeWeek": 367,
-    "timeMonth": 386,
+    "timeDay": 396,
+    "timeWeek": 378,
+    "timeMonth": 385,
     "timeYear": 383,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 298,
-    "timeDay": 125,
-    "timeWeek": 310,
+    "time": 296,
+    "timeDay": 71,
+    "timeWeek": 234,
     "timeMonth": 306,
-    "timeYear": 298,
+    "timeYear": 296,
     "dailyMinutesDown": {
       "2022-10-13": 102
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.96%",
-    "time": 260,
-    "timeDay": 176,
-    "timeWeek": 196,
-    "timeMonth": 240,
-    "timeYear": 260,
+    "time": 259,
+    "timeDay": 127,
+    "timeWeek": 180,
+    "timeMonth": 233,
+    "timeYear": 259,
     "dailyMinutesDown": {
       "2022-11-03": 73
     }
@@ -64,17 +64,16 @@
     "slug": "cdc-homepage",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.97%",
-    "time": 418,
-    "timeDay": 297,
-    "timeWeek": 869,
-    "timeMonth": 560,
-    "timeYear": 418,
+    "time": 417,
+    "timeDay": 290,
+    "timeWeek": 865,
+    "timeMonth": 563,
+    "timeYear": 417,
     "dailyMinutesDown": {
-      "2022-11-19": 10,
       "2022-11-09": 46
     }
   },
@@ -89,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 273,
-    "timeDay": 159,
-    "timeWeek": 252,
-    "timeMonth": 236,
-    "timeYear": 273,
+    "time": 272,
+    "timeDay": 196,
+    "timeWeek": 254,
+    "timeMonth": 237,
+    "timeYear": 272,
     "dailyMinutesDown": {
       "2022-10-01": 25,
       "2022-09-10": 22
