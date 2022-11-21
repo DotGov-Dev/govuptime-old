@@ -84,9 +84,9 @@
     "slug": "usps-registration",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 272,
     "timeDay": 251,
@@ -94,7 +94,6 @@
     "timeMonth": 241,
     "timeYear": 272,
     "dailyMinutesDown": {
-      "2022-11-20": 10,
       "2022-10-01": 25,
       "2022-09-10": 22
     }
