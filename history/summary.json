@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 579,
-    "timeDay": 496,
-    "timeWeek": 592,
+    "time": 577,
+    "timeDay": 260,
+    "timeWeek": 573,
     "timeMonth": 380,
-    "timeYear": 579,
+    "timeYear": 577,
     "dailyMinutesDown": {
       "2022-12-16": 109
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 297,
-    "timeDay": 300,
-    "timeWeek": 381,
-    "timeMonth": 335,
-    "timeYear": 297,
+    "time": 295,
+    "timeDay": 45,
+    "timeWeek": 342,
+    "timeMonth": 316,
+    "timeYear": 295,
     "dailyMinutesDown": {
       "2023-01-10": 18,
       "2022-10-13": 102
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 242,
-    "timeDay": 210,
-    "timeWeek": 242,
-    "timeMonth": 216,
-    "timeYear": 242,
+    "time": 241,
+    "timeDay": 97,
+    "timeWeek": 228,
+    "timeMonth": 210,
+    "timeYear": 241,
     "dailyMinutesDown": {
       "2022-11-03": 73
     }
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 437,
-    "timeDay": 296,
-    "timeWeek": 265,
-    "timeMonth": 446,
-    "timeYear": 437,
+    "time": 436,
+    "timeDay": 159,
+    "timeWeek": 243,
+    "timeMonth": 432,
+    "timeYear": 436,
     "dailyMinutesDown": {
       "2022-11-09": 46
     }
@@ -85,18 +85,19 @@
     "url": "https://reg.usps.com/",
     "icon": "https://icons.duckduckgo.com/ip3/reg.usps.com.ico",
     "slug": "usps-registration",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 273,
-    "timeDay": 508,
-    "timeWeek": 369,
-    "timeMonth": 272,
+    "timeDay": 0,
+    "timeWeek": 396,
+    "timeMonth": 276,
     "timeYear": 273,
     "dailyMinutesDown": {
+      "2023-01-25": 0,
       "2022-10-01": 25,
       "2022-09-10": 22
     }
