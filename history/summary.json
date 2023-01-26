@@ -85,9 +85,9 @@
     "url": "https://reg.usps.com/",
     "icon": "https://icons.duckduckgo.com/ip3/reg.usps.com.ico",
     "slug": "usps-registration",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -97,6 +97,7 @@
     "timeMonth": 280,
     "timeYear": 273,
     "dailyMinutesDown": {
+      "2023-01-26": 0,
       "2022-10-01": 25,
       "2022-09-10": 22
     }
