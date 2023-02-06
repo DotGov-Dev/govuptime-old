@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 571,
-    "timeDay": 260,
-    "timeWeek": 361,
-    "timeMonth": 444,
-    "timeYear": 571,
+    "time": 570,
+    "timeDay": 368,
+    "timeWeek": 360,
+    "timeMonth": 447,
+    "timeYear": 570,
     "dailyMinutesDown": {
       "2022-12-16": 109
     }
@@ -31,8 +31,8 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
     "time": 291,
-    "timeDay": 37,
-    "timeWeek": 115,
+    "timeDay": 336,
+    "timeWeek": 150,
     "timeMonth": 292,
     "timeYear": 291,
     "dailyMinutesDown": {
@@ -46,15 +46,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/pubmed.ncbi.nlm.nih.gov.ico",
     "slug": "nih-pubmed",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 239,
-    "timeDay": 113,
-    "timeWeek": 180,
-    "timeMonth": 211,
+    "timeDay": 205,
+    "timeWeek": 181,
+    "timeMonth": 210,
     "timeYear": 239,
     "dailyMinutesDown": {
       "2022-11-03": 73
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 432,
-    "timeDay": 423,
+    "time": 431,
+    "timeDay": 329,
     "timeWeek": 370,
-    "timeMonth": 305,
-    "timeYear": 432,
+    "timeMonth": 301,
+    "timeYear": 431,
     "dailyMinutesDown": {
       "2022-11-09": 46
     }
@@ -92,9 +92,9 @@
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.97%",
     "time": 274,
-    "timeDay": 83,
-    "timeWeek": 220,
-    "timeMonth": 299,
+    "timeDay": 216,
+    "timeWeek": 188,
+    "timeMonth": 291,
     "timeYear": 274,
     "dailyMinutesDown": {
       "2023-01-26": 54,
