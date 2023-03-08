@@ -4,11 +4,11 @@
     "url": "https://tools.usps.com",
     "icon": "https://icons.duckduckgo.com/ip3/tools.usps.com.ico",
     "slug": "usps-tools",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "98.17%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.95%",
     "time": 688,
     "timeDay": 7851,
@@ -16,7 +16,7 @@
     "timeMonth": 1448,
     "timeYear": 688,
     "dailyMinutesDown": {
-      "2023-03-08": 27,
+      "2023-03-08": 17,
       "2023-02-06": 50,
       "2022-12-16": 109
     }
