@@ -72,9 +72,9 @@
     "url": "https://www.cdc.gov/",
     "icon": "https://icons.duckduckgo.com/ip3/www.cdc.gov.ico",
     "slug": "cdc-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -84,6 +84,7 @@
     "timeMonth": 364,
     "timeYear": 391,
     "dailyMinutesDown": {
+      "2023-08-17": 0,
       "2022-11-09": 46
     }
   },
@@ -99,7 +100,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 272,
-    "timeDay": 242,
+    "timeDay": 200,
     "timeWeek": 276,
     "timeMonth": 252,
     "timeYear": 271,
