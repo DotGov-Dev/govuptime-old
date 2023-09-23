@@ -1,7 +1,7 @@
 url: https://tools.usps.com
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-09-23T02:56:15.539Z
+status: up
+code: 200
+responseTime: 279
+lastUpdated: 2023-09-23T03:12:22.251Z
 startTime: 2022-07-16T20:50:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
