@@ -4,7 +4,7 @@
     "url": "https://tools.usps.com",
     "icon": "https://icons.duckduckgo.com/ip3/tools.usps.com.ico",
     "slug": "usps-tools",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 712,
     "timeYear": 590,
     "dailyMinutesDown": {
+      "2023-11-02": 0,
       "2023-10-16": 19,
       "2023-10-12": 16,
       "2023-10-05": 18,
