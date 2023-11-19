@@ -13,7 +13,7 @@
     "time": 555,
     "timeDay": 259,
     "timeWeek": 1415,
-    "timeMonth": 994,
+    "timeMonth": 622,
     "timeYear": 611,
     "dailyMinutesDown": {
       "2023-11-14": 50,
@@ -36,9 +36,9 @@
     "url": "https://ncbi.nlm.nih.gov",
     "icon": "https://icons.duckduckgo.com/ip3/ncbi.nlm.nih.gov.ico",
     "slug": "nih-ncbi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -48,6 +48,7 @@
     "timeMonth": 236,
     "timeYear": 286,
     "dailyMinutesDown": {
+      "2023-11-19": 0,
       "2023-08-24": 66,
       "2023-02-22": 15,
       "2023-01-10": 18
@@ -58,9 +59,9 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/",
     "icon": "https://icons.duckduckgo.com/ip3/pubmed.ncbi.nlm.nih.gov.ico",
     "slug": "nih-pubmed",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -70,6 +71,7 @@
     "timeMonth": 196,
     "timeYear": 240,
     "dailyMinutesDown": {
+      "2023-11-19": 0,
       "2023-08-24": 55
     }
   },
@@ -85,7 +87,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 378,
-    "timeDay": 275,
+    "timeDay": 300,
     "timeWeek": 279,
     "timeMonth": 311,
     "timeYear": 360,
