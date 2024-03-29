@@ -12,8 +12,8 @@
     "uptimeYear": "99.94%",
     "time": 641,
     "timeDay": 586,
-    "timeWeek": 312,
-    "timeMonth": 1315,
+    "timeWeek": 321,
+    "timeMonth": 1345,
     "timeYear": 562,
     "dailyMinutesDown": {
       "2024-03-14": 42,
@@ -42,8 +42,8 @@
     "uptimeYear": "99.97%",
     "time": 276,
     "timeDay": 464,
-    "timeWeek": 350,
-    "timeMonth": 285,
+    "timeWeek": 377,
+    "timeMonth": 290,
     "timeYear": 277,
     "dailyMinutesDown": {
       "2024-01-10": 87,
@@ -63,8 +63,8 @@
     "uptimeYear": "99.97%",
     "time": 221,
     "timeDay": 213,
-    "timeWeek": 186,
-    "timeMonth": 172,
+    "timeWeek": 194,
+    "timeMonth": 173,
     "timeYear": 216,
     "dailyMinutesDown": {
       "2024-01-10": 86,
@@ -78,18 +78,16 @@
     "slug": "cdc-homepage",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 411,
     "timeDay": 2986,
-    "timeWeek": 1292,
-    "timeMonth": 822,
+    "timeWeek": 1385,
+    "timeMonth": 673,
     "timeYear": 422,
-    "dailyMinutesDown": {
-      "2024-03-28": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "USPS - Registration",
@@ -104,8 +102,8 @@
     "uptimeYear": "99.98%",
     "time": 253,
     "timeDay": 300,
-    "timeWeek": 211,
-    "timeMonth": 217,
+    "timeWeek": 212,
+    "timeMonth": 220,
     "timeYear": 237,
     "dailyMinutesDown": {
       "2024-01-18": 16,
