@@ -25,8 +25,7 @@
       "2023-10-03": 19,
       "2023-09-23": 35,
       "2023-07-31": 30,
-      "2023-04-13": 19,
-      "2023-04-11": 19
+      "2023-04-13": 19
     }
   },
   {
@@ -78,18 +77,16 @@
     "slug": "cdc-homepage",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 405,
     "timeDay": 555,
     "timeWeek": 381,
     "timeMonth": 606,
     "timeYear": 422,
-    "dailyMinutesDown": {
-      "2024-04-09": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "USPS - Registration",
