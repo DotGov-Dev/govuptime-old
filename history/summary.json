@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.95%",
-    "time": 641,
-    "timeDay": 459,
-    "timeWeek": 342,
-    "timeMonth": 1397,
-    "timeYear": 551,
+    "time": 646,
+    "timeDay": 3046,
+    "timeWeek": 745,
+    "timeMonth": 1465,
+    "timeYear": 559,
     "dailyMinutesDown": {
       "2024-03-14": 42,
       "2024-03-02": 35,
@@ -24,8 +24,7 @@
       "2023-10-05": 18,
       "2023-10-03": 19,
       "2023-09-23": 35,
-      "2023-07-31": 30,
-      "2023-04-13": 19
+      "2023-07-31": 30
     }
   },
   {
@@ -40,9 +39,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 276,
-    "timeDay": 459,
-    "timeWeek": 323,
-    "timeMonth": 294,
+    "timeDay": 68,
+    "timeWeek": 312,
+    "timeMonth": 281,
     "timeYear": 276,
     "dailyMinutesDown": {
       "2024-01-10": 87,
@@ -61,10 +60,10 @@
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.96%",
     "time": 237,
-    "timeDay": 1928,
-    "timeWeek": 975,
-    "timeMonth": 423,
-    "timeYear": 237,
+    "timeDay": 1917,
+    "timeWeek": 976,
+    "timeMonth": 419,
+    "timeYear": 236,
     "dailyMinutesDown": {
       "2024-04-11": 51,
       "2024-01-10": 86,
@@ -78,18 +77,16 @@
     "slug": "cdc-homepage",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 396,
-    "timeDay": 359,
-    "timeWeek": 384,
-    "timeMonth": 603,
+    "timeDay": 318,
+    "timeWeek": 381,
+    "timeMonth": 602,
     "timeYear": 423,
-    "dailyMinutesDown": {
-      "2024-04-11": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "USPS - Registration",
@@ -103,16 +100,15 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 254,
-    "timeDay": 361,
-    "timeWeek": 229,
-    "timeMonth": 232,
-    "timeYear": 236,
+    "timeDay": 294,
+    "timeWeek": 251,
+    "timeMonth": 231,
+    "timeYear": 237,
     "dailyMinutesDown": {
       "2024-01-18": 16,
       "2023-10-21": 18,
       "2023-09-23": 16,
-      "2023-06-28": 24,
-      "2023-04-13": 17
+      "2023-06-28": 24
     }
   }
 ]
