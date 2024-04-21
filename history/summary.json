@@ -13,7 +13,7 @@
     "time": 645,
     "timeDay": 405,
     "timeWeek": 342,
-    "timeMonth": 425,
+    "timeMonth": 430,
     "timeYear": 562,
     "dailyMinutesDown": {
       "2024-03-14": 42,
@@ -41,7 +41,7 @@
     "time": 277,
     "timeDay": 45,
     "timeWeek": 287,
-    "timeMonth": 303,
+    "timeMonth": 308,
     "timeYear": 279,
     "dailyMinutesDown": {
       "2024-01-10": 87,
@@ -62,7 +62,7 @@
     "time": 237,
     "timeDay": 92,
     "timeWeek": 166,
-    "timeMonth": 417,
+    "timeMonth": 426,
     "timeYear": 227,
     "dailyMinutesDown": {
       "2024-04-11": 51,
@@ -75,19 +75,19 @@
     "url": "https://www.cdc.gov/",
     "icon": "https://icons.duckduckgo.com/ip3/www.cdc.gov.ico",
     "slug": "cdc-homepage",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 396,
-    "timeDay": 0,
-    "timeWeek": 290,
-    "timeMonth": 594,
+    "timeDay": 231,
+    "timeWeek": 283,
+    "timeMonth": 591,
     "timeYear": 423,
     "dailyMinutesDown": {
-      "2024-04-21": 0
+      "2024-04-21": 6
     }
   },
   {
@@ -104,7 +104,7 @@
     "time": 251,
     "timeDay": 167,
     "timeWeek": 218,
-    "timeMonth": 237,
+    "timeMonth": 238,
     "timeYear": 236,
     "dailyMinutesDown": {
       "2024-01-18": 16,
