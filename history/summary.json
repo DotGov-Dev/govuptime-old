@@ -75,18 +75,20 @@
     "url": "https://www.cdc.gov/",
     "icon": "https://icons.duckduckgo.com/ip3/www.cdc.gov.ico",
     "slug": "cdc-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 409,
     "timeDay": 306,
-    "timeWeek": 1047,
+    "timeWeek": 1140,
     "timeMonth": 481,
-    "timeYear": 437,
-    "dailyMinutesDown": {}
+    "timeYear": 438,
+    "dailyMinutesDown": {
+      "2024-04-29": 0
+    }
   },
   {
     "name": "USPS - Registration",
