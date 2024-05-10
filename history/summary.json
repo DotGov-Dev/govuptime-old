@@ -75,10 +75,10 @@
     "url": "https://www.cdc.gov/",
     "icon": "https://icons.duckduckgo.com/ip3/www.cdc.gov.ico",
     "slug": "cdc-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.59%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.58%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 420,
@@ -87,6 +87,7 @@
     "timeMonth": 485,
     "timeYear": 437,
     "dailyMinutesDown": {
+      "2024-05-10": 0,
       "2024-05-07": 15,
       "2024-05-05": 26
     }
