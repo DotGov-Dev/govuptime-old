@@ -77,9 +77,9 @@
     "slug": "cdc-homepage",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
     "time": 422,
     "timeDay": 268,
@@ -87,7 +87,6 @@
     "timeMonth": 589,
     "timeYear": 448,
     "dailyMinutesDown": {
-      "2024-05-20": 6,
       "2024-05-18": 22,
       "2024-05-07": 15,
       "2024-05-05": 26
