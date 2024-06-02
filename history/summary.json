@@ -32,10 +32,10 @@
     "url": "https://ncbi.nlm.nih.gov",
     "icon": "https://icons.duckduckgo.com/ip3/ncbi.nlm.nih.gov.ico",
     "slug": "nih-ncbi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 276,
@@ -44,6 +44,7 @@
     "timeMonth": 341,
     "timeYear": 285,
     "dailyMinutesDown": {
+      "2024-06-02": 1,
       "2024-01-10": 87,
       "2023-08-24": 66
     }
@@ -53,9 +54,9 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/",
     "icon": "https://icons.duckduckgo.com/ip3/pubmed.ncbi.nlm.nih.gov.ico",
     "slug": "nih-pubmed",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -65,6 +66,7 @@
     "timeMonth": 277,
     "timeYear": 233,
     "dailyMinutesDown": {
+      "2024-06-02": 0,
       "2024-04-11": 51,
       "2024-01-10": 86,
       "2023-08-24": 55
